@@ -1,0 +1,22 @@
+{
+  "name": "DJRecorder",
+  "version": "0.1.0",
+  "summary": "A short description of DJRecorder.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Jae-sun/DJRecorder.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jaesun": "1016097566@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Jae-sun/DJRecorder.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DJRecorder/Classes/**/*"
+}

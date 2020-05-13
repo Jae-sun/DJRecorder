@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'DJRecorder_Example' do
+  pod 'DJRecorder', :path => '../'
+
+  target 'DJRecorder_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

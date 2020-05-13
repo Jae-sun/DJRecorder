@@ -1,0 +1,6 @@
+framework module DJRecorder {
+  umbrella header "DJRecorder-umbrella.h"
+
+  export *
+  module * { export * }
+}

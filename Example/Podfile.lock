@@ -1,0 +1,16 @@
+PODS:
+  - DJRecorder (0.1.0)
+
+DEPENDENCIES:
+  - DJRecorder (from `../`)
+
+EXTERNAL SOURCES:
+  DJRecorder:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DJRecorder: 12033a20ad82d290186a49d9b9eb5939987524ad
+
+PODFILE CHECKSUM: a4d21a2a7be07941e7a7a4c93d2ecda348428334
+
+COCOAPODS: 1.9.1
